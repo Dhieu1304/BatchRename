@@ -1,0 +1,10 @@
+5
+Replace "1" => "2"
+RemoveAllSpaces
+RemoveSpaceSE
+PascalRule
+AllLower
+3
+1|subFolder|D:\Dhieu\Download\test\subFolder|subfolder||0
+2|subFolder1_1|D:\Dhieu\Download\test\subFolder1_1|subfolder22||0
+3|subFolder2_1|D:\Dhieu\Download\test\subFolder2_1|subfolder22||0

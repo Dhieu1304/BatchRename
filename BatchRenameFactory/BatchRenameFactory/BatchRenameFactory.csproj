@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\Icon.png" />
+    <None Remove="images\up.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Core" Version="1.1.4" />
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Shell" Version="1.1.4" />
+    <PackageReference Include="PropertyChanged.Fody" Version="3.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contract\Contract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AddPrefixRule">
+      <HintPath>..\..\RenameRules\AddPrefixRule\bin\Debug\net5.0-windows\AddPrefixRule.dll</HintPath>
+    </Reference>
+    <Reference Include="AddSuffixRule">
+      <HintPath>..\..\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\AddSuffixRule.dll</HintPath>
+    </Reference>
+    <Reference Include="AllLowerRule">
+      <HintPath>..\..\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\AllLowerRule.dll</HintPath>
+    </Reference>
+    <Reference Include="AllUpperRule">
+      <HintPath>..\..\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\AllUpperRule.dll</HintPath>
+    </Reference>
+    <Reference Include="ChangeExtensionRule">
+      <HintPath>..\..\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\ChangeExtensionRule.dll</HintPath>
+    </Reference>
+    <Reference Include="PascalRule">
+      <HintPath>..\..\RenameRules\PascalRule\bin\Debug\net5.0-windows\PascalRule.dll</HintPath>
+    </Reference>
+    <Reference Include="RemoveAllSpacesRule">
+      <HintPath>..\..\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\RemoveAllSpacesRule.dll</HintPath>
+    </Reference>
+    <Reference Include="RemoveSpaceSE">
+      <HintPath>..\..\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\RemoveSpaceSE.dll</HintPath>
+    </Reference>
+    <Reference Include="ReplaceRule">
+      <HintPath>..\..\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\ReplaceRule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

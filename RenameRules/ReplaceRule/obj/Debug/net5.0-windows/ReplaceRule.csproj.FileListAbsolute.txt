@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\ReplaceRule.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\ReplaceRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\ref\ReplaceRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\ReplaceRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ref\ReplaceRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ReplaceRule\obj\Debug\net5.0-windows\ReplaceRule.csproj.AssemblyReference.cache

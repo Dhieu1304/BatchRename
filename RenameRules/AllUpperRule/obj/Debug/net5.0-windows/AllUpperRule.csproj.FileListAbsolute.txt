@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\AllUpperRule.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\AllUpperRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\ref\AllUpperRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\AllUpperRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\ref\AllUpperRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllUpperRule\obj\Debug\net5.0-windows\AllUpperRule.pdb

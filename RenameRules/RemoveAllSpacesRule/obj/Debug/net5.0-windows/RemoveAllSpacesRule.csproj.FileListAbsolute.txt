@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\RemoveAllSpacesRule.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\RemoveAllSpacesRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\ref\RemoveAllSpacesRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\RemoveAllSpacesRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\ref\RemoveAllSpacesRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveAllSpacesRule\obj\Debug\net5.0-windows\RemoveAllSpacesRule.pdb

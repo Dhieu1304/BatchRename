@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\RemoveSpaceSE.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\RemoveSpaceSE.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\ref\RemoveSpaceSE.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\RemoveSpaceSE.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\ref\RemoveSpaceSE.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\RemoveSpaceSE\obj\Debug\net5.0-windows\RemoveSpaceSE.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+5
+Replace "1" => "2"
+RemoveAllSpaces
+RemoveSpaceSE
+PascalRule
+AllLower

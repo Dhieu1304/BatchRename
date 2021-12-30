@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\Data01.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\Data01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\ref\Data01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\Data01.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\ref\Data01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Data01\Data01\obj\Debug\net5.0-windows\Data01.pdb

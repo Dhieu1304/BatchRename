@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\ChangeExtensionRule.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\ChangeExtensionRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\ref\ChangeExtensionRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\ChangeExtensionRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ref\ChangeExtensionRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.pdb

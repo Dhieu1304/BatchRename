@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\bin\Debug\net5.0-windows\PascalRule.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\bin\Debug\net5.0-windows\PascalRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\bin\Debug\net5.0-windows\ref\PascalRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\bin\Debug\net5.0-windows\PascalRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\ref\PascalRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\PascalRule\obj\Debug\net5.0-windows\PascalRule.pdb

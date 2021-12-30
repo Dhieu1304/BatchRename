@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\Bus01.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\Bus01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\ref\Bus01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\Bus01.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\ref\Bus01.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Bus01\Bus01\obj\Debug\net5.0-windows\Bus01.pdb

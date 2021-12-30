@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\AddSuffixRule.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\AddSuffixRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\ref\AddSuffixRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\AddSuffixRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\ref\AddSuffixRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddSuffixRule\obj\Debug\net5.0-windows\AddSuffixRule.csproj.AssemblyReference.cache

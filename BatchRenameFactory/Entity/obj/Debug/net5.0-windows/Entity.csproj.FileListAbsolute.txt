@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\bin\Debug\net5.0-windows\Entity.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\bin\Debug\net5.0-windows\ref\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\ref\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.pdb

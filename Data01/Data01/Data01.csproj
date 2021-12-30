@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Contract">
+      <HintPath>..\..\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\Contract.dll</HintPath>
+    </Reference>
+    <Reference Include="Entity">
+      <HintPath>..\..\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\Entity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

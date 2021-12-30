@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\bin\Debug\net5.0-windows\Contract.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\bin\Debug\net5.0-windows\ref\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\ref\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Contract\obj\Debug\net5.0-windows\Contract.pdb

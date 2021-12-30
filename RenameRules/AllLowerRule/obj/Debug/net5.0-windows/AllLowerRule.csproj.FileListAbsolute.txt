@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\AllLowerRule.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\AllLowerRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\ref\AllLowerRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\AllLowerRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\ref\AllLowerRule.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AllLowerRule\obj\Debug\net5.0-windows\AllLowerRule.csproj.AssemblyReference.cache

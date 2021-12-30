@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ze4SmDBUq6VS9sQdDaZGVdcJ0KqcV6cA/vlKhzqo9yBEEYZV/3hkOo0FykUySIXixaobqe801o6GYTeR0SgpjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Windows\\Other\\Project1\\BatchRenameFactory\\BatchRenameFactory\\BatchRenameFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.4\\microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.4\\microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
