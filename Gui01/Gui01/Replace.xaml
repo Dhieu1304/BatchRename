@@ -1,0 +1,40 @@
+﻿<Window x:Class="Gui01.Replace"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gui01"
+        mc:Ignorable="d"
+        Title="Replace" Height="300" Width="735">
+    <Canvas>
+        <TextBlock Text="Repalce Rule" FontSize="30" FontWeight="ExtraBlack" Foreground="#FF26B7C0" Canvas.Left="251" Canvas.Top="31"/>
+        <StackPanel Orientation="Horizontal" Canvas.Left="99" Canvas.Top="89">
+            <TextBlock Text=" From : " FontSize="20"/>
+            <TextBox x:Name="ReplaceFrom" Width="400" Height="30" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Canvas.Left="124" Canvas.Top="139">
+            <TextBlock Text=" To : " FontSize="20"/>
+            <TextBox x:Name="ReplaceTo" VerticalAlignment="Center" Width="400" Height="30" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Canvas.Left="228" Canvas.Top="174">
+            <Button Name="OKBtn" Height="50" Width="100" VerticalAlignment="Top" Background="#FFBFC794" Click="OKBtn_Click" Margin="20" IsDefault="True" FontWeight="Bold" >
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFBD1C1C" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+                <TextBlock Text="OK" FontSize="20"></TextBlock>
+            </Button>
+            <Button Name="CancelBtn" Height="50" Width="100" VerticalAlignment="Top" Background="#FFBFC794" Click="CancelBtn_Click" Margin="20" IsDefault="True" FontWeight="Bold" >
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFBD1C1C" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+                <TextBlock Text="Cancel" FontSize="20"></TextBlock>
+            </Button>
+        </StackPanel>
+    </Canvas>
+</Window>

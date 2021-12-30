@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\add.jpg" />
+    <None Remove="images\down_arrow.png" />
+    <None Remove="images\Icon.png" />
+    <None Remove="images\m_down_arrow.png" />
+    <None Remove="images\m_up_arrow.png" />
+    <None Remove="images\open_file_icon.png" />
+    <None Remove="images\RemoveAll.jpg" />
+    <None Remove="images\save_file_icon.png" />
+    <None Remove="images\up.png" />
+    <None Remove="images\up_arrow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Core" Version="1.1.4" />
+    <PackageReference Include="Microsoft-WindowsAPICodePack-ExtendedLinguisticServices" Version="1.1.4" />
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Sensors" Version="1.1.4" />
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Shell" Version="1.1.4" />
+    <PackageReference Include="Microsoft-WindowsAPICodePack-ShellExtensions" Version="1.1.4" />
+    <PackageReference Include="PropertyChanged.Fody" Version="3.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AddPrefixRule">
+      <HintPath>..\..\RenameRules\AddPrefixRule\bin\Debug\net5.0-windows\AddPrefixRule.dll</HintPath>
+    </Reference>
+    <Reference Include="AddSuffixRule">
+      <HintPath>..\..\RenameRules\AddSuffixRule\bin\Debug\net5.0-windows\AddSuffixRule.dll</HintPath>
+    </Reference>
+    <Reference Include="AllLowerRule">
+      <HintPath>..\..\RenameRules\AllLowerRule\bin\Debug\net5.0-windows\AllLowerRule.dll</HintPath>
+    </Reference>
+    <Reference Include="AllUpperRule">
+      <HintPath>..\..\RenameRules\AllUpperRule\bin\Debug\net5.0-windows\AllUpperRule.dll</HintPath>
+    </Reference>
+    <Reference Include="ChangeExtensionRule">
+      <HintPath>..\..\RenameRules\ChangeExtensionRule\bin\Debug\net5.0-windows\ChangeExtensionRule.dll</HintPath>
+    </Reference>
+    <Reference Include="Contract">
+      <HintPath>..\..\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\Contract.dll</HintPath>
+    </Reference>
+    <Reference Include="Entity">
+      <HintPath>..\..\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="PascalRule">
+      <HintPath>..\..\RenameRules\PascalRule\bin\Debug\net5.0-windows\PascalRule.dll</HintPath>
+    </Reference>
+    <Reference Include="RemoveAllSpacesRule">
+      <HintPath>..\..\RenameRules\RemoveAllSpacesRule\bin\Debug\net5.0-windows\RemoveAllSpacesRule.dll</HintPath>
+    </Reference>
+    <Reference Include="RemoveSpaceSE">
+      <HintPath>..\..\RenameRules\RemoveSpaceSE\bin\Debug\net5.0-windows\RemoveSpaceSE.dll</HintPath>
+    </Reference>
+    <Reference Include="ReplaceRule">
+      <HintPath>..\..\RenameRules\ReplaceRule\bin\Debug\net5.0-windows\ReplaceRule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\add.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\down_arrow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\m_down_arrow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\m_up_arrow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\open_file_icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\RemoveAll.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\save_file_icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\up_arrow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

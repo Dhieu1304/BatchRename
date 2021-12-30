@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhI261fatVG6+rkXrxSYnv1dS15c95p9EHldNUzI43qzpzxKX+e94M8Qm5weoSLwMQtwcuCq36P2kInrsKCfNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Windows\\Other\\Project1\\Gui01\\Gui01\\Gui01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.4\\microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft-windowsapicodepack-extendedlinguisticservices\\1.1.4\\microsoft-windowsapicodepack-extendedlinguisticservices.1.1.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft-windowsapicodepack-sensors\\1.1.4\\microsoft-windowsapicodepack-sensors.1.1.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.4\\microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft-windowsapicodepack-shellextensions\\1.1.4\\microsoft-windowsapicodepack-shellextensions.1.1.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
