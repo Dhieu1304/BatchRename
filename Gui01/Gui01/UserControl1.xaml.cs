@@ -1,4 +1,5 @@
-﻿using AddPrefixRule;
+﻿using AddCounter;
+using AddPrefixRule;
 using AddSuffixRule;
 using AllLowerRule;
 using AllUpperRule;
@@ -123,6 +124,12 @@ namespace Gui01
                     }
                     break;
                 case 9:
+                    var addCounter = new AddCounter(0, 1, 1);
+                    if (addCounter.ShowDialog() == true)
+                    {
+                        s += $"AddCounter {addCounter._start} {addCounter._step} {addCounter._numD}";
+                        _pros.Add(s);
+                    }
 
                     break;
                 default:
@@ -189,7 +196,31 @@ namespace Gui01
 
         private void startBatch_Click(object sender, RoutedEventArgs e)
         {
+            Preview_Click(sender, e);
 
+            foreach (var f in _fileNames)
+            {
+
+                if (f.type == 1)
+                {
+                    string temp = f.filePath;
+                    string newN = temp.Substring(0, temp.LastIndexOf(@"\") + 1) + f.newName;
+                    File.Move(f.filePath, newN);
+                }
+            }
+
+            foreach (var f in _fileNames)
+            {
+                
+                if (f.type == 0)
+                {
+                    string temp = f.filePath;
+                    string newN = temp.Substring(0, temp.LastIndexOf(@"\") + 1) + f.newName;
+                    Directory.Move(f.filePath, newN);
+                }
+            }
+
+            MessageBox.Show("Successfully Renamed!", "Message");
         }
 
         private void UserControl1_Load(Object sender, EventArgs e)
@@ -373,6 +404,7 @@ namespace Gui01
                     {RemoveAllSpacesRuleParser.MagicWord, new RemoveAllSpacesRuleParser() },
                     {PascalRuleParser.MagicWord, new PascalRuleParser() },
                     {ChangeExtensionRuleParser.MagicWord, new ChangeExtensionRuleParser() },
+                    {AddCounterRuleParser.MagicWord, new AddCounterRuleParser() },
                 };
             }
             public IRenameRuleParser Create(string choice)
@@ -382,6 +414,8 @@ namespace Gui01
                 return parser;
             }
         }
+
+        int indexVal = 0;
 
         private void Preview_Click(object sender, RoutedEventArgs e)
         {
@@ -401,8 +435,27 @@ namespace Gui01
                     string firstWord = line.Substring(0, firstSpaceIndex);
 
                     IRenameRuleParser parser = factory.Create(firstWord);
-                    IRenameRule rule = parser.Parse(line);
-                    rules.Add(rule);
+
+                    if (firstWord == "AddCounter")
+                    {
+                        string[] tokens = line.Split(new string[] { " " }, StringSplitOptions.None);
+                        int start = Int32.Parse(tokens[1]);
+                        int step = Int32.Parse(tokens[2]);
+                        int numD = Int32.Parse(tokens[3]);
+                        string counter = (start + indexVal * step).ToString();
+                        while (counter.Length < numD)
+                        {
+                            counter = "0" + counter;
+                        }
+                        string str = "AddCounter " + $"\"{counter}\"";
+                        IRenameRule rule = parser.Parse(str);
+                        rules.Add(rule);
+                    }
+                    else
+                    {
+                        IRenameRule rule = parser.Parse(line);
+                        rules.Add(rule);
+                    }
                 }
 
                 string newname = f.oldName;
@@ -424,18 +477,11 @@ namespace Gui01
                 
                 f.newName = newname;
                 rules.Clear();
-                /*f.newName = f.oldName + "_1";
-                string temp = f.filePath;
-                string newN = temp.Substring(0, temp.LastIndexOf(@"\") + 1) + f.newName;
-                if (f.type == 1)
-                {
-                    //File.Move(f.filePath, newN); //này của phần start batch
-                }
-                else // type == 0 : Directories
-                {
-                    //Directory.Move(f.filePath, newN); //này của phần start batch
-                }*/
+
+                indexVal++;
             }
+
+            indexVal = 0;
         }
 
         private Boolean checkDuplicated(FileName f)
@@ -582,6 +628,20 @@ namespace Gui01
                     if (ChangeExt_Screen.ShowDialog() == true)
                     {
                         NewStr += $"ChangeExtension \"{ChangeExt_Screen.NewExt}\"";
+                        _pros[index] = NewStr;
+                    }
+
+                    break;
+                case "AddCounter":
+                    tokens = line.Split(new string[] { " " }, StringSplitOptions.None);
+                    int start = Int32.Parse(tokens[1]);
+                    int step = Int32.Parse(tokens[2]);
+                    int numD = Int32.Parse(tokens[3]);
+
+                    var addCounter = new AddCounter(start, step, numD);
+                    if (addCounter.ShowDialog() == true)
+                    {
+                        NewStr += $"AddCounter {addCounter._start} {addCounter._step} {addCounter._numD}";
                         _pros[index] = NewStr;
                     }
 

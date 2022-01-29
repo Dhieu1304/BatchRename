@@ -46,3 +46,8 @@ C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\obj\Debug\net5.0-w
 C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\obj\Debug\net5.0-windows\ChangeExtension.baml
 C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\bin\Debug\net5.0-windows\ChangeExtensionRule.dll
 C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\bin\Debug\net5.0-windows\ChangeExtensionRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\obj\Debug\net5.0-windows\Gui01.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\obj\Debug\net5.0-windows\AddCounter.g.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\obj\Debug\net5.0-windows\AddCounter.baml
+C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\bin\Debug\net5.0-windows\AddCounter.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\Gui01\Gui01\bin\Debug\net5.0-windows\AddCounter.pdb

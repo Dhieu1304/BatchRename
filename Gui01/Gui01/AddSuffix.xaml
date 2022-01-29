@@ -10,7 +10,10 @@
         <TextBlock Text="Add Suffix Rule" FontSize="30" FontWeight="ExtraBlack" Foreground="#FF26B7C0" Canvas.Left="251" Canvas.Top="31"/>
         <StackPanel Orientation="Horizontal" Margin="50,50,0,0" Canvas.Left="54" Canvas.Top="72">
             <TextBlock Text=" Suffix : " FontSize="20"/>
-            <TextBox x:Name="SufixString" Width="400" Height="30" Margin="10 0 0 0" />
+            <TextBox x:Name="SufixString" Width="400" Height="30" Margin="10 0 0 0" TextChanged="SufixString_TextChanged"/>
+        </StackPanel>
+        <StackPanel Canvas.Left="184" Canvas.Top="157">
+            <TextBlock x:Name="errVal" Text="{Binding _status}" Foreground="Red"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Canvas.Left="228" Canvas.Top="174">
             <Button Name="OKBtn" Height="50" Width="100" VerticalAlignment="Top" Background="#FFBFC794" Click="OKBtn_Click" Margin="20" IsDefault="True" FontWeight="Bold" >

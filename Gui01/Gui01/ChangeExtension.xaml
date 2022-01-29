@@ -11,7 +11,11 @@
         <TextBlock Text="(Just apply to files)" FontSize="15" Canvas.Left="304" Canvas.Top="73" />
         <StackPanel Orientation="Horizontal" Canvas.Left="131" Canvas.Top="112">
             <TextBlock Text=" New Extension : " FontSize="20"/>
-            <TextBox x:Name="NewExtension" VerticalAlignment="Center" Width="322" Height="30" />
+            <TextBox x:Name="NewExtension" VerticalAlignment="Center" Width="322" Height="30" 
+                     TextChanged="NewExtension_TextChanged"/>
+        </StackPanel>
+        <StackPanel Canvas.Left="283" Canvas.Top="147">
+            <TextBlock x:Name="errVal" Text="{Binding _status}" Foreground="Red"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Canvas.Left="228" Canvas.Top="174">
             <Button Name="OKBtn" Height="50" Width="100" VerticalAlignment="Top" Background="#FFBFC794" Click="OKBtn_Click" Margin="20" IsDefault="True" FontWeight="Bold" >

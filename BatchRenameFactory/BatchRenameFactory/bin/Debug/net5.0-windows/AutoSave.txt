@@ -1,10 +1,16 @@
 5
-Replace "1" => "2"
-RemoveAllSpaces
-RemoveSpaceSE
 PascalRule
-AllLower
-3
-1|subFolder|D:\Dhieu\Download\test\subFolder|subfolder||0
-2|subFolder1_1|D:\Dhieu\Download\test\subFolder1_1|subfolder22||0
-3|subFolder2_1|D:\Dhieu\Download\test\subFolder2_1|subfolder22||0
+AllUpper
+AddCounter 0 1 1
+PascalRule
+RemoveAllSpaces
+9
+1|p_13.Png|C:\Users\USER\Documents\test\1_super sub folder008_zz\p_13.Png|||1
+2|qwe.png|C:\Users\USER\Documents\test\1_super sub folder008_zz\qwe.png|||1
+3|1_s folder009_zz|C:\Users\USER\Documents\test\1_s folder009_zz|||0
+4|1_sub   f010_zz|C:\Users\USER\Documents\test\1_sub   f010_zz|||0
+5|1_super sub folder008_zz|C:\Users\USER\Documents\test\1_super sub folder008_zz|||0
+6|1_1004_zz.bmp|C:\Users\USER\Documents\test\1_s folder009_zz\1_1004_zz.bmp|||1
+7|1_1005_zz.jpg|C:\Users\USER\Documents\test\1_s folder009_zz\1_1005_zz.jpg|||1
+8|1_aaz006_zz.png|C:\Users\USER\Documents\test\1_s folder009_zz\1_aaz006_zz.png|||1
+9|1_copy007_zz.png|C:\Users\USER\Documents\test\1_s folder009_zz\1_copy007_zz.png|||1

@@ -48,3 +48,5 @@ C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\BatchRename
 C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\ChangeExtensionRule.pdb
 C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\PascalRule.pdb
 C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\RemoveAllSpacesRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\AddCounter.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\BatchRenameFactory\bin\Debug\net5.0-windows\AddCounter.pdb

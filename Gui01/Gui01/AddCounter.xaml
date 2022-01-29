@@ -1,0 +1,51 @@
+﻿<Window x:Class="Gui01.AddCounter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gui01"
+        mc:Ignorable="d"
+        Title="AddCounter" Height="350" Width="735">
+    <Canvas>
+        <TextBlock Text="Add Counter" FontSize="30" FontWeight="ExtraBlack" Foreground="#FF26B7C0" Canvas.Left="251" Canvas.Top="31"/>
+        <StackPanel Orientation="Horizontal" Canvas.Left="84" Canvas.Top="117">
+            <TextBlock Text=" Start Value : " FontSize="20"/>
+            <TextBox x:Name="startVal" Width="60" Height="25" Margin="0 0 30 0"
+                     TextChanged="startVal_TextChanged"/>
+            <TextBlock Text="Step : " FontSize="20"/>
+            <TextBox x:Name="stepVal" Width="60" Height="25" Margin="0 0 30 0"
+                     TextChanged="stepVal_TextChanged"/>
+            <TextBlock Text="NumofDigit : " FontSize="20"/>
+            <ComboBox Name="numDigit" Width="50" Height=" 25" />
+        </StackPanel>
+        <StackPanel Canvas.Left="157" Canvas.Top="149">
+            <TextBlock x:Name="errVal1" Text="{Binding _status1}" Foreground="Red"/>
+        </StackPanel>
+        <StackPanel Canvas.Left="319" Canvas.Top="154">
+            <TextBlock x:Name="errVal2" Text="{Binding _status2}" Foreground="Red"/>
+        </StackPanel>
+        <StackPanel Canvas.Left="251" Canvas.Top="278">
+            <TextBlock x:Name="errVal3" Text="{Binding _status3}" Foreground="Red"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Canvas.Left="228" Canvas.Top="188">
+            <Button Name="OKBtn" Height="50" Width="100" VerticalAlignment="Top" Background="#FFBFC794" Click="OKBtn_Click" Margin="20" IsDefault="True" FontWeight="Bold" >
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFBD1C1C" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+                <TextBlock Text="OK" FontSize="20"></TextBlock>
+            </Button>
+            <Button Name="CancelBtn" Height="50" Width="100" VerticalAlignment="Top" Background="#FFBFC794" Click="CancelBtn_Click" Margin="20" IsDefault="True" FontWeight="Bold" >
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFBD1C1C" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+                <TextBlock Text="Cancel" FontSize="20"></TextBlock>
+            </Button>
+        </StackPanel>
+    </Canvas>
+</Window>

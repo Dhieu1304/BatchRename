@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveSpaceSE", "RemoveSpac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddSuffixRule", "AddSuffixRule\AddSuffixRule.csproj", "{2C3B6AC6-D698-42B4-9BD8-6BFBE660ADE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllUpperRule", "AllUpperRule\AllUpperRule.csproj", "{FC53CB27-5446-4DE8-AFCB-1D4E19785F15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllUpperRule", "AllUpperRule\AllUpperRule.csproj", "{FC53CB27-5446-4DE8-AFCB-1D4E19785F15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllSpacesRule", "RemoveAllSpacesRule\RemoveAllSpacesRule.csproj", "{07568E01-FDE0-47F2-9167-D3CDBF868CB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveAllSpacesRule", "RemoveAllSpacesRule\RemoveAllSpacesRule.csproj", "{07568E01-FDE0-47F2-9167-D3CDBF868CB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalRule", "PascalRule\PascalRule.csproj", "{CCA10486-CD93-483A-86D2-E1096199B823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalRule", "PascalRule\PascalRule.csproj", "{CCA10486-CD93-483A-86D2-E1096199B823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeExtensionRule", "ChangeExtensionRule\ChangeExtensionRule.csproj", "{739B5AEA-ABF2-47D8-A627-36750E4DB944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeExtensionRule", "ChangeExtensionRule\ChangeExtensionRule.csproj", "{739B5AEA-ABF2-47D8-A627-36750E4DB944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCounter", "AddCounter\AddCounter.csproj", "{BDC3CFB0-6C58-4B75-B50B-4956576E275E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{739B5AEA-ABF2-47D8-A627-36750E4DB944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{739B5AEA-ABF2-47D8-A627-36750E4DB944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{739B5AEA-ABF2-47D8-A627-36750E4DB944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC3CFB0-6C58-4B75-B50B-4956576E275E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC3CFB0-6C58-4B75-B50B-4956576E275E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC3CFB0-6C58-4B75-B50B-4956576E275E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC3CFB0-6C58-4B75-B50B-4956576E275E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

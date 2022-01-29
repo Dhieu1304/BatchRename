@@ -2,6 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="AddCounter.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="AddPrefix.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -19,6 +22,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AddCounter.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="AddPrefix.xaml">
       <SubType>Designer</SubType>
     </Page>

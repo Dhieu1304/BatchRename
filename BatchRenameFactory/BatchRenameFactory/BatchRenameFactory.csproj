@@ -22,6 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="AddCounter">
+      <HintPath>..\..\RenameRules\AddCounter\bin\Debug\net5.0-windows\AddCounter.dll</HintPath>
+    </Reference>
     <Reference Include="AddPrefixRule">
       <HintPath>..\..\RenameRules\AddPrefixRule\bin\Debug\net5.0-windows\AddPrefixRule.dll</HintPath>
     </Reference>

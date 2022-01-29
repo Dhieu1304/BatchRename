@@ -12,3 +12,4 @@ C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRul
 C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.dll
 C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ref\ChangeExtensionRule.dll
 C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\ChangeExtensionRule\obj\Debug\net5.0-windows\ChangeExtensionRule.csproj.AssemblyReference.cache

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 
-5-939882316
+6-456524030
 
-101199488202
-2191645630615
-AddPrefix.xaml;AddSuffix.xaml;ChangeExtension.xaml;Replace.xaml;UserControl1.xaml;
+101815936663
+220874413090
+AddCounter.xaml;AddPrefix.xaml;AddSuffix.xaml;ChangeExtension.xaml;Replace.xaml;UserControl1.xaml;
 
-True
+False
 

@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\bin\Debug\net5.0-windows\AddCounter.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\bin\Debug\net5.0-windows\AddCounter.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\bin\Debug\net5.0-windows\ref\AddCounter.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\bin\Debug\net5.0-windows\AddCounter.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\bin\Debug\net5.0-windows\Entity.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\bin\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\ref\AddCounter.dll
+C:\Users\USER\source\repos\Windows\Other\Project1\RenameRules\AddCounter\obj\Debug\net5.0-windows\AddCounter.pdb

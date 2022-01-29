@@ -39,6 +39,7 @@ namespace Gui01
 
         private void OKBtn_Click(object sender, RoutedEventArgs e)
         {
+            newStr = PrefixString.Text;
             DialogResult = true;
         }
 

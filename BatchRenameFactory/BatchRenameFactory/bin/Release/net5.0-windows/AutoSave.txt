@@ -1,0 +1,4 @@
+1
+AllLower
+1
+1|12341_TESTASD002_ZZ.ttt|C:\Users\USER\Documents\test\12341_TESTASD002_ZZ.ttt|12341_testasd002_zz.ttt||1

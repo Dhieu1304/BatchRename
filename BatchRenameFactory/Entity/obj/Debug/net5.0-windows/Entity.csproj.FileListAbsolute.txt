@@ -9,3 +9,4 @@ C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\
 C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.dll
 C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\ref\Entity.dll
 C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.pdb
+C:\Users\USER\source\repos\Windows\Other\Project1\BatchRenameFactory\Entity\obj\Debug\net5.0-windows\Entity.csproj.AssemblyReference.cache
