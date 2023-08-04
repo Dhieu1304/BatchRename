@@ -40,10 +40,6 @@ Hoàn thành cơ bản các yêu cầu của đồ án:
 - Khi Exit thì tự động lưu các luật
 - Lưu tự động (trong trường hợp mất điện, hoặc máy tính tắt đột ngột thì vẫn có thể mở lại đúng ngay trạng thái đang làm)
 
-## Expected grade
-
-9.5
-
 ## Link Video Demo
 
 [Link Video Demo Project1: Batch Rename](https://www.youtube.com/watch?v=vBIJG3t749s)
